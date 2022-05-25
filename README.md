@@ -1,7 +1,7 @@
 # Pokédex 🎮 
 
 ### Descrição 📌
-###### Um app para desktop que funciona como uma pokédex. Permitindo consultas as descrições de cada pokémon (2º geração) e a criação do seu próprio pokémon. 
+###### Um app para desktop que funciona como uma pokédex. Permite consultas as descrições de cada pokémon (2º geração) e a criação do seu próprio pokémon. 
 
 
 
